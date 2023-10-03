@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "203a0c8c08eff26b",
+    "type": "split",
+    "children": [
+      {
+        "id": "30e8aaa2976bebf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "112c4737902019ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculus/高等数学基础篇/1 - 函数、极限、连续（例题）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f6652ee9616ea39",
+    "type": "split",
+    "children": [
+      {
+        "id": "e87c1dfeaf9aa44e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bcd7ffa25a86aa7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b6cad3a6c56eb272",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5cd26fdfc3439c3c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292.5
+  },
+  "right": {
+    "id": "341d0910b2ab4260",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bdade22017f9f99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "682e442336ecf7dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Calculus/高等数学基础篇/1 - 函数、极限、连续（例题）.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "afedacf6c4825e81",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Calculus/高等数学基础篇/1 - 函数、极限、连续（例题）.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a761f981f364b01a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a8f19c5c294913d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Calculus/高等数学基础篇/1 - 函数、极限、连续（例题）.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "112c4737902019ca",
+  "lastOpenFiles": [
+    "Calculus/高等数学基础篇/1 - 函数、极限、连续.md",
+    "Calculus/高等数学基础篇/1 - 函数、极限、连续（例题）.md",
+    "README.md",
+    "Linear-Algebra",
+    "Calculus/高等数学基础篇",
+    "Calculus"
+  ]
+}
